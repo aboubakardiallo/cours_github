@@ -2,4 +2,6 @@
 
 Premier fichier ajouté à Git.
 
-Deuxieme commiut du cours pour apprendre la commande 'git pull'.
+Deuxieme commit du cours pour apprendre la commande 'git pull'.
+
+Premier commit dans la branche 'premiere_branche'
